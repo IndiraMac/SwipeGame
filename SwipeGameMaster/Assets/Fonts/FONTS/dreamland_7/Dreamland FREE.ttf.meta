@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a4ea3bb0410ea482d9c8316e7567fd37
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dreamland FREE
+  fontNames:
+  - Dreamland FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b3aed3d1489df467dac5b791af60f030, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
